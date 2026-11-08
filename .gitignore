@@ -1,0 +1,6 @@
+/database/db.local.php
+/SQL/
+/mysql-data/
+*.zip
+error_log
+phpinfo.php
